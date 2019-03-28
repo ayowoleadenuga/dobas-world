@@ -449,6 +449,10 @@ footer .copyright a {
 #home h1 {
 	font-size: 32px;
 }
+#team h3 {
+	margin-top: 0;
+	line-height: 20px;
+}
 #home h2 {
 	font-size: 22px;
 }
